@@ -1,10 +1,10 @@
-127.0.0.1 !
-127.0.0.1 ! Title: Porn
-127.0.0.1 ! Description: Detta tar bort porn saker.
-127.0.0.1 ! Homepage: https://github.com/scoutante112/dns/
-127.0.0.1 ! License: Kommer snart
-127.0.0.1 ! Last modified: 2022-09-09
-127.0.0.1 !
+!
+! Title: Porn
+! Description: Detta tar bort porn saker.
+! Homepage: https://github.com/scoutante112/dns/
+! License: Kommer snart
+! Last modified: 2022-09-10
+!
 127.0.0.1 localhost
 127.0.0.1 livejasmin.com
 127.0.0.1 form.pornhub.com
