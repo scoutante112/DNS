@@ -1,1 +1,7 @@
-
+!
+! Title: Game
+! Description: Detta blockar spel och annat skit som har spel.
+! Homepage: https://github.com/scoutante112/dns/
+! License: Kommer snart
+! Last modified: 2022-09-10
+!
