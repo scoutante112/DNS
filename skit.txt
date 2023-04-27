@@ -1,0 +1,8 @@
+!
+! Title: Skit
+! Description: Detta tar bort skit
+! Homepage: https://github.com/scoutante112/dns/
+! License: Kommer snart
+! Last modified: 2023-04-27
+!
+127.0.0.1 nordhost.se
